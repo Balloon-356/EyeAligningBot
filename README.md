@@ -43,7 +43,7 @@ Bot的用法很简单，打开Bot，接下来只需调整“视频”和“鼠�
 ```
 ```
 // 可选的颜色主题：
- // theme: "cosmo", "flatly", "litera", "minty", "yeti", "pulse", "united",
+// theme: "cosmo", "flatly", "litera", "minty", "yeti", "pulse", "united",
 //              "morph",  "journal",  "darkly",  "superhero", "solar", "cyborg",
 //              "vapor", "simplex",  "cerculean",
 ```
