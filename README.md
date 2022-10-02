@@ -120,7 +120,7 @@ Bot开源代码：https://github.com/Balloon-356/EyeAligningBot
 2. “缩放与布局”，“更改文本、应用等项目的大小”，调为“100%”
 3. 正常显示情况如下：
 
-![image-20221003003432661](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20221003003432661.png)
+![image-20221003003432661](other/image-20221003003432661.png)
 
 ### 2. “未选择窗口”
 
@@ -128,7 +128,7 @@ Bot开源代码：https://github.com/Balloon-356/EyeAligningBot
 
 点击“检测末影之眼”，左下角提示“未选择窗口”。
 
-![image-20221003003245902](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20221003003245902.png)
+![image-20221003003245902](other/image-20221003003245902.png)
 
 **解决办法：**
 
@@ -143,7 +143,7 @@ Bot开源代码：https://github.com/Balloon-356/EyeAligningBot
 
 点击“检测末影之眼”，左下角提示：“偏差较大：xx”
 
-![image-20221003005007660](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20221003005007660.png)
+![image-20221003005007660](other/image-20221003005007660.png)
 
 **解决办法：**
 
@@ -152,7 +152,7 @@ Bot开源代码：https://github.com/Balloon-356/EyeAligningBot
 
 正常情况如下图：
 
-![image-20221003005440850](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20221003005440850.png)
+![image-20221003005440850](other/image-20221003005440850.png)
 
 
 
@@ -168,7 +168,7 @@ Bot开源代码：https://github.com/Balloon-356/EyeAligningBot
 
 按步骤玩成了选择窗口，末影之眼检测成功，但“对准”时提示“未检测到末影之眼”
 
-![image-20221003005932435](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20221003005932435.png)
+![image-20221003005932435](other/image-20221003005932435.png)
 
 **解决办法：**
 
