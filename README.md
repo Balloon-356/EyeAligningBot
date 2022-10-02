@@ -112,7 +112,7 @@ Bot开源代码：https://github.com/Balloon-356/EyeAligningBot
 
 “确定”按钮显示不出来，最下面的字显示不全。
 
-![image-20221003002754158](EyeAligningBot/other/image-20221003002754158.png)
+![image](other/image-20221003002754158.png)
 
 **解决办法：**
 
