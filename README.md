@@ -34,7 +34,7 @@ Bot的用法很简单，打开Bot，接下来只需调整“视频”和“鼠�
 
 ## 相关链接
 
-视频教程：参考我的b站视频（顺便给个三连哦~）
+视频教程：https://www.bilibili.com/video/BV1oe411L7fJ（顺便给个三连吧！）
 
 我的b站账号：https://space.bilibili.com/244384103/
 
